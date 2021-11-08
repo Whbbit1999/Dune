@@ -767,6 +767,11 @@ bl@^4.1.0:
     inherits "^2.0.4"
     readable-stream "^3.4.0"
 
+bootstrap-icons-vue@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.npmmirror.com/bootstrap-icons-vue/download/bootstrap-icons-vue-0.7.0.tgz#c09e811f47944449435bcfacb252d27ce95cbe0f"
+  integrity sha1-wJ6BH0eURElDW8+sslLSfOlcvg8=
+
 braces@^3.0.1, braces@~3.0.2:
   version "3.0.2"
   resolved "https://registry.npm.taobao.org/braces/download/braces-3.0.2.tgz#3454e1a462ee8d599e236df336cd9ea4f8afe107"
