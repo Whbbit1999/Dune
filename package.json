@@ -5,31 +5,20 @@
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
-    "serve": "vite preview",
-    "docs:dev": "vitepress dev docs",
-    "docs:build": "vitepress build docs",
-    "docs:serve": "vitepress serve docs",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "serve": "vite preview"
   },
   "dependencies": {
     "@vitejs/plugin-vue-jsx": "^1.2.0",
     "bootstrap-icons-vue": "^0.7.0",
     "sass": "^1.43.4",
-    "vitepress": "^0.20.1",
     "vue": "^3.2.16"
   },
   "devDependencies": {
     "@babel/core": "^7.16.0",
-    "@storybook/addon-actions": "^6.3.12",
-    "@storybook/addon-essentials": "^6.3.12",
-    "@storybook/addon-links": "^6.3.12",
-    "@storybook/vue3": "^6.3.12",
     "@vitejs/plugin-vue": "^1.9.3",
     "babel-loader": "^8.2.3",
     "typescript": "^4.4.3",
     "vite": "^2.6.4",
-    "vitepress-theme-demoblock": "^1.3.2",
     "vue-loader": "^16.8.3",
     "vue-tsc": "^0.3.0"
   },
